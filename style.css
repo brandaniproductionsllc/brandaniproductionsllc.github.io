@@ -1,0 +1,18 @@
+/* Container holding the image and the text */
+body, html{
+	height: 100%
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  top:50%;
+}
+
+.bg{
+	background-image: url("cover.jpg");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
